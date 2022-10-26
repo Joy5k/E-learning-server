@@ -1,0 +1,200 @@
+[{
+    "id":1,
+    "title":"The Complete 2022 Web Development ",
+    
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoCtamCLRFcswakjiEYN5mk3UVoGV4VXJ_rQ&usqp=CAU ", 
+    
+    "description":" Hi,I am Joy.And, I am your instructor.If you want to   become a Full-Stack Web Developer with just ONE course! YAY!! this course for you .I will teach you:- HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",
+    
+    "price":225,
+    
+    "rating":4.3,
+    
+    "duration":55,
+    "feedback":[{
+    
+    "name":"Williamson",
+    "img":" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXMoVzxCblapAJGtynahqDlJc3SUp2FMcy2g&usqp=CAU",
+    "email":"william@gmail.com",
+    "text":"i love the step by step process. This course is making me apply what I learn in my own creative way. There are some links and files that are still outdated; the whole course needs to be re organized. But as soon as that happens, I'm happy with what I learned. Great course, super affordable and game changing.",
+    "rating":4.5},
+    
+    {"name":"Abraham smith",
+    "img":" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVlcQklP2R6h7ebR6esXzu9abmVGsWAOJ5UA&usqp=CAU",
+    "email":"abraham@yahoo.com ",
+    "text":"The course material was well presented, and easy to work along with the lessons. The only thing that made it difficult was that files names had no extensions, so in windows trying to figure out the file type was at times challenging.",
+    "rating":4},
+    {
+    "name":"Rabi Bastin J.",
+    "img":" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfjykXPUHxqxLOAGFkAiVCZV0fMjuGgI8WOw&usqp=CAU",
+    "email":"rbastin@gmail.com",
+    "text":"Good explanation & writing coding and explaining & showing out .how to use in different manner . very good explanation",
+    "rating":5
+    }
+     ]
+    
+    },
+    {
+    "id":2,
+    "title":"Learn PHP",
+    "img":" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQtPhkFn_CtN1Gi6_gvZy0TblkFh6FtQHByw&usqp=CAU ",
+    
+    "description":"PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993. The PHP reference implementation is now produced by The PHP Group.PHP was among the first scripting languages used to create interactive and dynamic websites. Being embedded in HTML, PHP makes it easy to add dynamic features to web pages without needing to rely on external data.",
+    
+    "price":132,
+    
+    "rating":4.6,
+    
+    "duration":12,
+    "feedback":[{
+    "name":"Thuppada",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_GauAvhUgS9tQSd60rhSTwIZgxmN2fqdIgQ&usqp=CAU ",
+    "email":"thampada@yahoo.com",
+    "text":"Brilliant course , definitely a weeder.... Now i know what not to spend the rest of my life doing",
+    "rating":5
+    },
+    {
+    "name":"Alin Catalin",
+    "img":" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfghZV-x98ga3duc5xmCWRiTP2YHJbeJ9fDKvna8r0jd3Zr7VfgNzLCqA&s=10",
+    "email":"ali332@gmail.com ",
+    "text":"I want to thank you for the way you teach us these courses . I learned a lot after this course . I am nearing completion",
+    "rating":5
+    },
+    {
+    "name":"Frank",
+    "img":" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkI9cXiLp0yPZCRtvkQAXoabEKH0Shd06Pvw&usqp=CAU",
+    "email":"sdfrank@gmail.com",
+    "text":"This course is a good one and has enabled me to improve my PHP coding skills tremendously even though they are minor lapses to this course.",
+    "rating":4.5}
+    ]
+    },
+    {
+    "id":3,
+    "title":"Learn JavaScript",
+    "img":" https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png",
+    
+    "description":"JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.JavaScript is designed on a simple object-based paradigm. An object is a collection of properties, and a property is an association between a name (or key) and a value. A property's value can be a function, in which case the property is known as a method.",
+    
+    "price":119.90,
+    
+    "rating":4.7,
+    
+    "duration":11,
+    "feedback":[{
+    "name":"Howard",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSVw1MzNO8rO-3er0isyCb1AtLZ-r6_hkJ-Q&usqp=CAU",
+    "email":"hiward@gmail.com",
+    "text":"Love every single course by Jonas. Well explanation, crystal clear, cover all best practices, programming concept, super important things you need to learn in Javascript. I have bought 4/4 course from Jonas, keep up the good work!",
+    "rating":5
+    },
+    {
+    "name":"MARINI",
+    "img":" data:image/jpeg;base64,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",
+    "email":"marin@gmail.com",
+    "text":"I am completely stunned!!! how on earth is this course can not be on the must-to-do list in every web developer's learning list? It was an awesome journey, I even cracked my first interview. Thanks, Jonas, Love & Respect.",
+    "rating":5},
+    {"name":"Shubham",
+    "img":" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ5ZaNYJf5dUT9pIjEK5XqtIjGThEBIiP672Bdz8ySh0Jck2gfz_334LkU&s=10 ",
+    "email":"shubgamsing@gmail.com",
+    "text":"The way he is teaching a Skill is very good. As a student I found this course very adaptive, he explains almost all the Modern JS tools, Methods, etc. So, In short I enjoyed that Course and also Recommends to others.",
+    "rating":4.5}
+    ]
+    },
+    {
+    "id":4,
+    "title":"Learn Python",
+    "img":" https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
+    
+    "description":"Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!",
+    
+    "price":99.90,
+    "rating":4.7,
+    "duration":13,
+    "feedback":[{
+    "name":"Seung Hwan",
+    "img":" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxVmqIbTaumMBkZ9wRVYfQ8fKKkgmewzBq5A&usqp=CAU",
+    "email":"shwan@yahoo.com",
+    "text":" Well I started as a total Newbie knowing nothing about programming and now working as a fullTime software engineer, thanks to this course for being the starting point of my career, I really love the Instructor and the way she teaches, Thank you, Angela.",
+    "rating":5
+    },
+    {"name":"Fabian",
+    "img":" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2cOjhRIk-JW4FmOQYFrnOI-JcjsGseoFKcywN4BnX5yR6xwU2vOEcQ8_8&s=10 ",
+    "email":"fabian2@gmail.com ",
+    "text":"The course is very good and detailed. There are some solutions that are not accurate or full and a few items that need better clarification, but overall the course is well taught and can be taken by complete beginners.",
+    "rating":5},
+    {"name":"Gytis sing",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyDlPFx4VPGByZeQOgxukXcTvFVD-iBqbnA&usqp=CAU ",
+    "email":"gsing@gmail.com ",
+    "text":"Im on day 49 and I can say this course can teach u a lot, you will have to watch old lessons anyway to remember things, cause u cant hold everything in your head, but the quality is very good. ",
+    
+    "rating":4.5
+    }]
+    
+    },
+    
+    {
+    "id":5,
+    "title":" Oracle SQL - Step by Step SQL",
+    
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVYr78X5tgghZ3AFXckH8yM-H9HqroCn-DIw&usqp=CAU",
+    
+    "description":"Discover essential SQL skills necessary to transform you into SQL developer which can earn you 70k+ in the IT Industry",
+    "price":89.99,
+    "rating":4.8,
+    "duration":16,
+    "feedback":[
+    {
+    "name":"McK.Brck",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfE0No5-4MlI5FcuWlBxuBn2HGmvjZfTL_Rw&usqp=CAU",
+    "email":"brck17@gmail.com",
+    "text":"Great study guide for picking up SQL in general. A perfect balance of giving a lot of information and managing time so working professionals can come up to speed quickly.",
+    "rating":5
+    },
+    {
+    "name":"William",
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm_ehu0lMYdi4Ev2gFhaccgxckCew2NvyYeg&usqp=CAU",
+    "email":"willian@gmail.com",
+    "text":"The tutor explained SQL in very lucid manner. He is really awesome at teaching SQL. I would recommend everyone to join this course if they are interested in learning SQL.",
+    "rating":5},
+    {
+    "name":"Saurabh khandokar",
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuuqQ0y-V2GqL9Lvh5I31rLAdz_Qea28DXaw&usqp=CAU",
+    "email":"ksaurabh@gmaul.com",
+    "text":"One of the best concise, straight to the point SQL course. Assessment Tests are really helpful to evaluate your understanding. Thanks to the instructor",
+    "rating":4.5}
+    ]
+    },
+    {
+    "id":6,
+    "title":" Learn Ethical Hacking From Scratch",
+    "img":" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Ls1eyKLM7N7HrtymSwC9I3TkgwIaVXnWxQ&usqp=CAU",
+    
+    "description":"Become an ethical hacker that can hack computer systems like black hat hackers and secure them like security experts.  ",
+    "price":99.90,
+    "rating":4.9,
+    "duration":42,
+    "feedback":[{
+    "name":"Nikita",
+    "img":" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWoGm0ffUSkYdVT9t6Owe2-MnD_2LKO1kqSg&usqp=CAU",
+    "email":"nikita33@gmail.com",
+    "text":"Would like some testing or Q&A on each section to make sure people are able to understand all the things that has been covered in that section.",
+    "rating":5
+    },
+    {
+    "name":"Madhusudhana pavana",
+    "img":" https://www.whatsappimages.in/wp-content/uploads/2022/02/girls-dp-Wallpaper-scaled.jpg",
+    "email":"mpavana@gmail.com",
+    "text":"The course brings a good knowledge on the ethical hacking career and how to use ethical hacking environment.",
+    "rating":4.5
+    },
+    {
+    "name":"Joseph",
+    "img":" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-NpgpuGZB86shYgls-sFoDM0EePqjSK8pPg&usqp=CAU",
+    "email":"jiseph@gmail.com",
+    "text":"Very good course for a novice, Glad I took the class. Thank You sir.",
+    "rating":5
+    }
+    ]
+    }
+    ]
+    
